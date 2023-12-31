@@ -1,7 +1,7 @@
 import requests, argparse, time, os, random
 from ast import literal_eval
 #Still have yet to find a way to reduce this... 
-astTypes = {
+astTypes = {15546972754
   0:['Unknown', ''],
   1:['Image', '.png'],
   2:['TeeShirt', '.xml'],
@@ -52,8 +52,8 @@ astTypes = {
   62:['Video', '']   
 }
 #urls used in program
-astUrl = 'https://assetdelivery.roblox.com/v1/asset?id='
-apiUrl = 'https://api.roblox.com/marketplace/productinfo?assetId='
+astUrl = 'https://assetdelivery.roblox.com/v1/15546972754
+apiUrl = 'https://api.roblox.com/marketplace/15546972754
 #Creates web requests and handles most errors and status codes
 def makeWebReq(url):
     try:
